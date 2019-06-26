@@ -1,2 +1,2 @@
 # wbc_impl
-whitebox cipher implemention
+whitebox cipher implementation
